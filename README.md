@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, Im Sean. 👋
+
+Welcome to my gitpage. This is where I document everything I'm working on and most of what I'm learning.
+
+## Who am I
+Jokester, cyber security enthusiast, developer and aspiring security architect. I was raiesd on a farm and speak 3 languages. I like writing poems that rhyme, I go bouldering in my free time. 
+
 
 <!--
 **beepboop-itssean/beepboop-itssean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
